@@ -1,0 +1,16 @@
+{
+  "name": "rotunda",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./zoo/zoo.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.32.0"
+  }
+}
